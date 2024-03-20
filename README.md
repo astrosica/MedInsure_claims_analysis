@@ -6,6 +6,10 @@ MedInsure is a medical insurance company that helps thousands of Americans cover
 
 The interactive dashboard can be found in Tableau Public here. This dashboard enables users to filter by plan type, campaign type, and customer state, focusing on marketing, signup, and claim metrics.
 
+## Data Structure
+
+The data consisted of three tables: (1) marketing campaigns, (2) customer signups and demographics, and (3) claim information.
+
 ## Key Metrics
 
 **Click-Through Rate (CTR)**: The percentage of people who see an online marketing campaign and click the link.
