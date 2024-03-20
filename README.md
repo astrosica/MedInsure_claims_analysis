@@ -38,6 +38,7 @@ The presentation for the marketing team that presents my insights and recommenda
 
 ## Recommendations
 
+The team provides the following recommendations:
 - item
 - item
 - item
