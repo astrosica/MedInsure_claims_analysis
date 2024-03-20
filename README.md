@@ -14,10 +14,8 @@ The data consisted of three tables: (1) marketing campaigns, (2) customer signup
 
 ## Key Metrics
 
-**Click-Through Rate (CTR)**: The percentage of people who see an online marketing campaign and click the link.
-
-**Signup Rate**: The percentage of people who see a marketing campaign and sign up for an insurance plan.
-
+**Click-Through Rate (CTR)**: The percentage of people who see an online marketing campaign and click the link.<br>
+**Signup Rate**: The percentage of people who see a marketing campaign and sign up for an insurance plan.<br>
 **Cost per Signup**: The average dollars spent to acquire a signup for each marketing campaign.
 
 ## Insights Summary 
