@@ -10,6 +10,8 @@ The interactive dashboard can be found in Tableau Public here. This dashboard en
 
 The data consisted of three tables: (1) marketing campaigns, (2) customer signups and demographics, and (3) claim information.
 
+![MedInsure_ERD](https://github.com/jessicacampbell-astro/MedInsure_claims_analysis/assets/23153120/dc9f6c18-c1e8-4e80-929b-a26835fb4f9f)
+
 ## Key Metrics
 
 **Click-Through Rate (CTR)**: The percentage of people who see an online marketing campaign and click the link.
