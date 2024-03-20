@@ -6,6 +6,8 @@ MedInsure is a medical insurance company that helps thousands of Americans cover
 
 The interactive dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/astrosica/viz/MedInsureClaimsDashboard/Dashboard). This dashboard enables users to filter by plan type, campaign type, and customer state, focusing on marketing, signup, and claim metrics.
 
+![MedInsure_Dashboard](https://github.com/jessicacampbell-astro/MedInsure_claims_analysis/assets/23153120/0428dc88-8937-4de7-8219-a0ff508b986b)
+
 ## Data Structure
 
 The data consisted of three tables: (1) marketing campaigns, (2) customer signups and demographics, and (3) claim information.
