@@ -1,6 +1,6 @@
 # MedInsure Claims Analysis
 
-MedInsure is a medical insurance company that helps thousands of Americans cover the cost of medical surgeries. They offer four plan types (bronze, silver, gold, and platinum) with different premiums and claim coverage rates. In 2019, MedInsure launched a series of new campaign categories covering topics like wellness tips, the affordability of their plans, and preventative care. I created an interactive Tableau dashboard to report on marketing, signup, and claims metrics to investigate the campaign category performance and provide recommendations on future marketing campaign budget allocation. I also created a PowerPoint presentation for the marketing team to present my insights and recommendations. 
+MedInsure is a medical insurance company that helps thousands of Americans cover the cost of medical surgeries. They offer four plan types (bronze, silver, gold, and platinum) with different premiums and claim coverage rates. In 2019, MedInsure launched a series of new campaign categories covering topics like wellness tips, the affordability of their plans, and preventative care. I created an interactive Tableau dashboard to report on marketing, signup, and claims metrics to investigate the campaign category performance and provide recommendations on future budget allocation. I also created a PowerPoint presentation for the marketing team to present my insights and recommendations. 
 
 ## Interactive Tableau Dashboard
 
