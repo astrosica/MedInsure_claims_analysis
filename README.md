@@ -6,10 +6,6 @@ MedInsure is a medical insurance company that helps thousands of Americans cover
 
 The interactive dashboard can be found in Tableau Public here. This dashboard enables users to filter by plan type, campaign type, and customer state, focusing on marketing, signup, and claim metrics.
 
-## Presentation Sample
-
-The PowerPoint presentation for the marketing team that presents my insights and recommendations can be found here. Some highlights are shown below.
-
 ## Key Metrics
 
 **Click-Through Rate (CTR)**: The percentage of people who see an online marketing campaign and click the link.
@@ -42,6 +38,10 @@ The team provides the following recommendations:
 - item
 - item
 - item
+
+## PowerPoint Presentation
+
+The PowerPoint presentation for the marketing team that presents my insights and recommendations outlined above can be found here. Some highlights are shown below.
 
 ## Contact
 
