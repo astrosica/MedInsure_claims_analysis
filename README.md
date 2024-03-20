@@ -15,13 +15,14 @@ The data consisted of three tables: (1) marketing campaigns, (2) customer signup
 ## Key Metrics
 
 **Impressions**: The number of people who saw a marketing campaign. <br>
-**Cost per Impression**: The average dollars spent to acquire an impression for each marketing campaign. <br>
+**Cost per Impression**: The average dollar amount spent on obtaining an impression. <br>
 **Click-Through Rate (CTR)**: The percentage of people who saw a marketing campaign and clicked on the associated link.<br>
+**Cost per Click (CPC)**: The average dollar amount spent on each marketing campaign click. <br>
 **Signups**: The number of people who signed up for an insurance plan. <br>
 **Signup Rate**: The percentage of people who saw a marketing campaign and signed up for an insurance plan.<br>
-**Cost per Signup**: The average dollars spent to acquire a signup for each marketing campaign.
+**Cost per Signup**: The average dollar amount spent on obtaining a customer signup.
 **Claim count**: The number of claims. <br>
-**Claim amount**: The dollar amount associated with a claim. <br>
+**Claim amount**: The claim dollar amount. <br>
 
 ## Insights Summary 
 
