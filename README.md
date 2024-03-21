@@ -32,9 +32,9 @@ In evaluating campaign performance, the analysis focused on the following key me
 
 ### Marketing Metrics
 
-- item
-- item
-- item
+- The Health For All campaign had the highest CTR (25%) despite having the lowest impressions (171K).
+- The Health For All and Benefit Updates campaigns performed 2-3 times better than the average CTR, at 25% and 22% respectively.
+- The Golden Years Security campaign had the lowest CTR (1%), highest CPC ($0.68), and only 5% of the average impressions (422K).
 
 ### Signup Metrics
 
@@ -51,7 +51,8 @@ In evaluating campaign performance, the analysis focused on the following key me
 ## Recommendations
 
 The team provides the following recommendations:
-- item
+- The Health For All and Benefit Updates campaigns performed 1.7-2 times better than the average CTR, at 25% and 22% respectively.
+- The Golden Years Security campaign had the lowest CTR (1%), lowest signup rate (0.0%), highest CPC ($0.68), and around half the average impressions (422K).
 - item
 - item
 
