@@ -30,19 +30,19 @@ In evaluating campaign performance, the analysis focused on the following key me
 
 ## Summary of Insights
 
-### Click-Through Rate
+### Marketing Metrics
 
 - item
 - item
 - item
 
-### Signup Rate
+### Signup Metrics
 
 - item
 - item
 - item
 
-### Cost per Signup
+### Claims Metrics
 
 - item
 - item
