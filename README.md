@@ -34,27 +34,28 @@ In evaluating campaign performance, the analysis focused on the following key me
 
 - The Health For All campaign had the highest CTR (25%) despite having the lowest impressions (171K).
 - The Health For All and Benefit Updates campaigns performed 2-3 times better than the average CTR, at 25% and 22% respectively.
-- The Golden Years Security campaign had the lowest CTR (1%), highest CPC ($0.68; nearly six times the average), and only 5% of the average impressions (422K).
-- Despite having the fourth-highest impressions, Family Coverage Plan had zero clicks.
+- The Golden Years Security campaign had the lowest CTR (1%), highest CPC ($0.68; nearly six times the average), and only about half the average impressions (422K).
+- Despite having the fourth-highest impressions, the Family Coverage Plan campaign had zero clicks.
 
 ### Signup Metrics
 
 - The Healthy Living campaign had the highest number of signups (3.7K) with a particularly low cost per signup ($1.79) and surprisingly low signup rate (0.3%).
 - The Golden Years Security campaign had the lowest signup rate (0.01%), lowest number of signups (23), and highest cost per signup ($177).
-- item
+- The Family Coverage Plan campaign had one of the lowest signup rates (0.03%) and one of the lowest number of signups (300), possibly due to zero clicks on the marketing campaign.
 
 ### Claims Metrics
 
-- item
-- item
-- item
+- The Compare Health Coverage campaign had the highest average claim amount ($410) and the highest total claim amount ($3.9M), possibly due to a post-pandemic surge in claim amounts.
+- The Golden Years Security campaign had the lowest average claim amount ($215) and the lowest total claim amount ($16K), likely because it was severely underperforming in marketing and signup metrics.
+- The claim amounts for the Compare Health Coverage campaign saw a rapid increase at the beginning of the COVID-19 pandemic and have since rapidly declined to higher than pre-pandemic amounts.
+- Despite having the highest to-date average and total claim amounts, the relative success of the Health For All campaign has slowly declined over the pandemic.
 
 ## Recommendations
 
 The team provides the following recommendations:
-- Reallocate the budget from the under-performing Golden Years Security campaign, which has the highest CPC, to the highest-performing Health For All and Benefit Updates campaigns.
-- item
-- Investigate the lack of clicks with the Family Coverage Plan as this may reflect a data quality issue.
+- Reallocate the budget from the consistently under-performing Golden Years Security campaign to the higher-performing Benefit Updates campaigns. Reconsider alternate means for directing marketing campaigns to this particular audience (e.g., physical handouts over electronic ads).
+- Investigate the lack of clicks with the Family Coverage Plan, which may reflect a data quality issue, to increase the low signup rate and number of signups.
+- Decrease investment in the Health For All and Compare Health Coverage campaigns as their post-pandemic success is declining.
 
 ## PowerPoint Presentation
 
