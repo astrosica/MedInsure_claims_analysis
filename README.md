@@ -57,7 +57,7 @@ The team provides the following recommendations:
 
 ## PowerPoint Presentation
 
-The PowerPoint presentation for the marketing team that presents my insights and recommendations outlined above can be found here. Some highlights are shown below.
+The PowerPoint presentation presenting the above insights and recommendations for the marketing team can be found here. Some highlights are shown below:
 
 ## Contact
 
