@@ -16,6 +16,8 @@ The data consisted of 70K records over three tables: (1) marketing campaigns, (2
 
 ## Key Metrics
 
+In evaluating campaign performance, the analysis focused on the following key metrics:
+
 **Impressions**: The number of people who saw a marketing campaign. <br>
 **Cost per Impression**: The average dollar amount spent on obtaining an impression. <br>
 **Click-Through Rate (CTR)**: The percentage of people who saw a marketing campaign and clicked on the associated link.<br>
