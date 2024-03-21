@@ -28,7 +28,7 @@ In evaluating campaign performance, the analysis focused on the following key me
 - **Claim count**: The number of claims.
 - **Claim amount**: The dollar claim amount.
 
-## Insights Summary 
+## Summary of Insights
 
 ### Click-Through Rate
 
