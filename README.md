@@ -34,12 +34,13 @@ In evaluating campaign performance, the analysis focused on the following key me
 
 - The Health For All campaign had the highest CTR (25%) despite having the lowest impressions (171K).
 - The Health For All and Benefit Updates campaigns performed 2-3 times better than the average CTR, at 25% and 22% respectively.
-- The Golden Years Security campaign had the lowest CTR (1%), highest CPC ($0.68), and only 5% of the average impressions (422K).
+- The Golden Years Security campaign had the lowest CTR (1%), highest CPC ($0.68; nearly six times the average), and only 5% of the average impressions (422K).
+- Despite having the fourth-highest impressions, Family Coverage Plan had zero clicks.
 
 ### Signup Metrics
 
-- item
-- item
+- The Healthy Living campaign had the highest number of signups (3.7K) with a particularly low cost per signup ($1.79) and surprisingly low signup rate (0.3%).
+- The Golden Years Security campaign had the lowest signup rate (0.01%), lowest number of signups (23), and highest cost per signup ($177).
 - item
 
 ### Claims Metrics
@@ -51,10 +52,9 @@ In evaluating campaign performance, the analysis focused on the following key me
 ## Recommendations
 
 The team provides the following recommendations:
-- The Health For All and Benefit Updates campaigns performed 1.7-2 times better than the average CTR, at 25% and 22% respectively.
-- The Golden Years Security campaign had the lowest CTR (1%), lowest signup rate (0.0%), highest CPC ($0.68), and around half the average impressions (422K).
+- Reallocate the budget from the under-performing Golden Years Security campaign, which has the highest CPC, to the highest-performing Health For All and Benefit Updates campaigns.
 - item
-- item
+- Investigate the lack of clicks with the Family Coverage Plan as this may reflect a data quality issue.
 
 ## PowerPoint Presentation
 
