@@ -53,7 +53,8 @@ In evaluating campaign performance, the analysis focused on the following key me
 ## Recommendations
 
 The team provides the following recommendations:
-- Reallocate the budget from the consistently under-performing Golden Years Security campaign to the higher-performing Benefit Updates campaigns. Reconsider alternate means for directing marketing campaigns to this particular audience (e.g., physical handouts over electronic ads).
+- Reallocate the budget from the lowest-performing Golden Years Security campaign (which has the highest CPC and the highest cost per signup) to the higher-performing Benefit Updates campaigns with a focus on increasing impressions.
+- Reconsider alternate means for directing marketing campaigns to new Golden Years Security customers (e.g., physical handouts over electronic ads).
 - Investigate the lack of clicks with the Family Coverage Plan, which may reflect a data quality issue, to increase the low signup rate and number of signups.
 - Decrease investment in the Health For All and Compare Health Coverage campaigns as their post-pandemic success is declining.
 
