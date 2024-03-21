@@ -12,7 +12,7 @@ The interactive dashboard can be found in Tableau Public [here](https://public.t
 
 The data consisted of three tables: (1) marketing campaigns, (2) customer signups and demographics, and (3) claim information.
 
-![MedInsure_ERD](https://github.com/jessicacampbell-astro/MedInsure_claims_analysis/assets/23153120/0412608c-3a54-44ae-aeb0-0732332e745a)
+![MedInsure_ERD](https://github.com/jessicacampbell-astro/MedInsure_claims_analysis/assets/23153120/3a9cbbe6-d83f-4d51-9807-92ebcc8524ab)
 
 ## Key Metrics
 
