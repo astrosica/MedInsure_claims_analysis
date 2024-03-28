@@ -53,10 +53,12 @@ In evaluating campaign performance, the analysis focused on the following key me
 ## Recommendations
 
 The team provides the following recommendations:
-- Reallocate the budget from the lowest-performing Golden Years Security campaign (which has the highest CPC and the highest cost per signup) to the higher-performing Benefit Updates campaigns with a focus on increasing impressions.
-- Reconsider alternate means for directing marketing campaigns to new Golden Years Security customers (e.g., physical handouts over electronic ads).
-- Investigate the lack of clicks with the Family Coverage Plan, which may reflect a data quality issue, to increase the low signup rate and number of signups.
-- Decrease investment in the Health For All and Compare Health Coverage campaigns as their post-pandemic success is declining.
+- Prioritize Health for All and #CoverageMatters campaign categories, as these had the highest signup rates and lowest cost per signup.
+- Reallocate budget from Golden Years Security to #CoverageMatters and #HealthyLiving campaign categories, which have 0.4-1% of the signup cost and 150-160x the number of signups.
+- Consider removing Offer Announcement campaign types and prioritizing Health Awareness and Product Promotion, which have 35-40x the signup rate and 55-90x the number of signups.
+- Prioritize Benefit Updates as they have one of the highest CTRs and lowest cost per clicks.
+- Continue investing in Health for All campaigns for their high CTR, but investigate drivers for high cost per click.
+- Reallocate budget for Health Tips to Customer Testimonial, as CTR is the same but impressions are more than 2x higher.
 
 ## PowerPoint Presentation
 
