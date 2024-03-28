@@ -60,7 +60,7 @@ The team provides the following recommendations:
 
 ## PowerPoint Presentation
 
-The PowerPoint presentation presenting the above insights and recommendations for the marketing team can be found here. Some highlights are shown below:
+The PowerPoint presentation presenting the above insights and recommendations for the marketing team can be found [here](https://github.com/jessicacampbell-astro/MedInsure_claims_analysis/blob/main/presentation/MedInsure_presentation.pdf). Some highlights are shown below:
 
 ![PPT_opening](https://github.com/jessicacampbell-astro/MedInsure_claims_analysis/assets/23153120/d610cf6f-c4fe-4813-af1c-59e99b535c54)
 ![PPT_signup_rates](https://github.com/jessicacampbell-astro/MedInsure_claims_analysis/assets/23153120/7e7efb2d-903f-422c-a254-7beb31dc6d0b)
