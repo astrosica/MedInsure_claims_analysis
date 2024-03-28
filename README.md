@@ -66,7 +66,7 @@ The PowerPoint presentation presenting the above insights and recommendations fo
 
 ![PPT_title](https://github.com/jessicacampbell-astro/MedInsure_claims_analysis/assets/23153120/f68e03fa-6e30-458e-b460-04b9d4cb35fa)
 ![PPT_signup_rates](https://github.com/jessicacampbell-astro/MedInsure_claims_analysis/assets/23153120/7e7efb2d-903f-422c-a254-7beb31dc6d0b)
-![PPT_recs](https://github.com/jessicacampbell-astro/MedInsure_claims_analysis/assets/23153120/3b578649-2f28-4d6e-b640-0bbda88da224)
+![PPT_recs](https://github.com/jessicacampbell-astro/MedInsure_claims_analysis/assets/23153120/ec94c49d-0a40-4a2f-bbcd-f5da1336546a)
 ![PPT_tech_process](https://github.com/jessicacampbell-astro/MedInsure_claims_analysis/assets/23153120/109c1f84-5d13-4778-86b1-6bbef7177384)
 
 ## Contact
